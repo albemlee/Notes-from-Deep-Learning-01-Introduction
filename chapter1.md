@@ -3,7 +3,7 @@ title: Introduction
 description: Key Terms - Artificial Intelligence, Deep Learning
 
 ---
-## <<<Artificial Intelligence>>>
+## Artificial Intelligence
 
 ```yaml
 type: PureMultipleChoiceExercise
@@ -28,7 +28,7 @@ Read through page 1 in (Deep Learning book)[http://www.deeplearningbook.org/cont
 
 
 ---
-## <<<Deep Learning>>>
+## Deep Learning
 
 ```yaml
 type: PureMultipleChoiceExercise
@@ -54,7 +54,7 @@ Read through page 1 and 2 in (Deep Learning book)[http://www.deeplearningbook.or
 
 
 ---
-## <<<Computer Capability>>>
+## Computer Capability
 
 ```yaml
 type: PureMultipleChoiceExercise
