@@ -1,4 +1,4 @@
-title: Course Title Here
-description: A description of the course.
+title: Notes from Deep Learning - 01 Introduction
+description: This course is part of a series of notes taken from Deep Learning by Ian Goodfellow and Yoshua Bengio. The free online version of the book can be found at (http://www.deeplearningbook.org/). This course will review Chapter 1 - Introduction from the book.
 programming_language: python
 from: python-base-prod:20
